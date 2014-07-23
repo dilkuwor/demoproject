@@ -12,7 +12,7 @@
         $(document).ready(function () {
             alert('document is ready');
             var rowChanged = function (data) {
-                alert(data);
+               // alert(data);
             };
         });
 
