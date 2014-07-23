@@ -1,0 +1,8 @@
+C:\Users\dil\Desktop\DIL\ASP.NET\ASP.NET Demo\ASP.NET Demo\bin\ASP.NET Demo.dll.config
+C:\Users\dil\Desktop\DIL\ASP.NET\ASP.NET Demo\ASP.NET Demo\bin\ASP.NET Demo.dll
+C:\Users\dil\Desktop\DIL\ASP.NET\ASP.NET Demo\ASP.NET Demo\bin\ASP.NET Demo.pdb
+C:\Users\dil\Desktop\DIL\ASP.NET\ASP.NET Demo\ASP.NET Demo\bin\BLL.dll
+C:\Users\dil\Desktop\DIL\ASP.NET\ASP.NET Demo\ASP.NET Demo\bin\BLL.pdb
+C:\Users\dil\Desktop\DIL\ASP.NET\ASP.NET Demo\ASP.NET Demo\obj\Debug\ASP.NET Demo.csprojResolveAssemblyReference.cache
+C:\Users\dil\Desktop\DIL\ASP.NET\ASP.NET Demo\ASP.NET Demo\obj\Debug\ASP.NET Demo.dll
+C:\Users\dil\Desktop\DIL\ASP.NET\ASP.NET Demo\ASP.NET Demo\obj\Debug\ASP.NET Demo.pdb
